@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doleful dance, and song of death; intituled, Dance after my pipe. To a pleasant new tune.</title>
+            <author>Hill, Thomas, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678-1681?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03661</idno>
+            <idno type="STC">Wing H2014</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[499]</idno>
+            <idno type="EEBO-CITATION">99892038</idno>
+            <idno type="PROQUEST">ocm99892038</idno>
+            <idno type="VID">183182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183182)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[266])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doleful dance, and song of death; intituled, Dance after my pipe. To a pleasant new tune.</title>
+                  <author>Hill, Thomas, fl. 1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for F. Coles, T. Vere, I. Wright, J. Clarke, W. Thackeray, and T. Passenger,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1678-1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Hill.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Can you dance the shaking of the sheets ..."</note>
+                  <note>Woodcut illustration at head.</note>
+                  <note>Formerly STC 6224.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183182:1"/>
+            <!-- PDF PAGE 27 -->
+            <head>The doleful Dance, and Song of Death; Intituled, <hi>Dance after my Pipe.</hi>
+            </head>
+            <opener>To a Pleaſant New Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>CAn you dance the ſhaking of the ſheets,</l>
+               <l>a dance that every one muſt do?</l>
+               <l>Can you trim it up with dainty ſweets,</l>
+               <l>and every thing as longs thereto?</l>
+               <l>Make ready then your winding ſheet,</l>
+               <l>And ſee how you can beſtir your feet,</l>
+               <l>For death is the man that all muſt meet.</l>
+            </lg>
+            <lg>
+               <l>Bring away the Begger and the King,</l>
+               <l>and every man in hie degree.</l>
+               <l>Bring the old and youngeſt thing.</l>
+               <l>come all to death and follow me.</l>
+               <l>Thè Courtier with his lofty looks,</l>
+               <l>The Lawyer with his learned Books,</l>
+               <l>The Banker with his baiting-hooks.</l>
+            </lg>
+            <lg>
+               <l>Merchants have you made your Mart in <hi>France,</hi>
+               </l>
+               <l>in <hi>Italy</hi> and all about?</l>
+               <l>Know you not that you and I muſt dance,</l>
+               <l>both out <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls wrapt in a c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out:</l>
+               <l>What mean you to made your houſes gay,</l>
+               <l>And I muſt tak<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Tenant away,</l>
+               <l>And dig for your ſakes the clods of clay,</l>
+            </lg>
+            <lg>
+               <l>Think you on the ſolemn Sizes paſt,</l>
+               <l>how ſuddenly in <hi>Oxfordſhire,</hi>
+               </l>
+               <l>I came and made the Judges all agaſt,</l>
+               <l>and Juſtices that di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appear.</l>
+               <l>And took both <hi>Bell</hi> and <hi>Baram</hi> away,</l>
+               <l>And many a worthy man th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day,</l>
+               <l>And all their bodies brought to clay.</l>
+            </lg>
+            <lg>
+               <l>Think you that I dare not come to Schools,</l>
+               <l>where all the cunning Clerks be moſt?</l>
+               <l>Take I not always both wiſe and fools,</l>
+               <l>and am I not in every Coaſt?</l>
+               <l>Aſſure your ſelves no creature can,</l>
+               <l>Make death affraid of any man,</l>
+               <l>Or know my coming where or when.</l>
+            </lg>
+            <lg>
+               <l>where be they that make their Leaſes ſtrong</l>
+               <l>and joyn about them land to land,</l>
+               <l>Do you make account to live ſo long,</l>
+               <l>to have the world come to your hand:</l>
+               <l>No fooliſh nowle, for all thy pence,</l>
+               <l>Full ſoon thy ſoul muſt needs go hence,</l>
+               <l>Then who ſhall toyl for thy defence.</l>
+            </lg>
+            <lg>
+               <l>And you that lean on your Ladies laps,</l>
+               <l>and lay your heads upon their knee,</l>
+               <l>Think you for to play with beautious paps,</l>
+               <l>and not to come and dance with me:</l>
+               <l>No, fair Lords and Ladies all,</l>
+               <l>I will make you come when I do call,</l>
+               <l>And find you a Pipe to dance withal.</l>
+            </lg>
+            <lg>
+               <l>And you that are buſie-headed fools,</l>
+               <l>to bubble of a pelting ſtraw,</l>
+               <l>Know you not that I have ready tools,</l>
+               <l>to cut you from your crafty Law:</l>
+               <l>And you that ſafely buy and ſell,</l>
+               <l>And think you make your Markets well,</l>
+               <l>Muſt dance with death whereſoe're you dwel</l>
+            </lg>
+            <lg>
+               <l>Pride muſt have a pretty ſheet, I ſee,</l>
+               <l>for properly ſhe loves to dance,</l>
+               <l>Come away my wanton Wench to me,</l>
+               <l>as gallantly as your eye can glance:</l>
+               <l>And all good fellows that flaſh and ſwaſh,</l>
+               <l>In reds and yellows of revel daſh,</l>
+               <l>I warrant you need not be ſo raſh.</l>
+            </lg>
+            <lg>
+               <l>For I can quickly cool you all.</l>
+               <l>how hot or ſtout ſo e're you be,</l>
+               <l>Both high and low, beth great and ſmall,</l>
+               <l>I naught do ſear your high degree.</l>
+               <l>The Ladies fair, the Beldams old,</l>
+               <l>The Champion ſtout, the Souldier bold,</l>
+               <l>Muſt all with me to earthly mold.</l>
+            </lg>
+            <lg>
+               <l>Therefore take time while it is lent,</l>
+               <l>prepare with me your ſelves to dance,</l>
+               <l>Forget me not, your lives lament,</l>
+               <l>I come oftentimes by ſudden chance.</l>
+               <l>Be ready therefore. watch and pray,</l>
+               <l>That when my Minſtrel pipe doth play,</l>
+               <l>You may to Heaven dance the way.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
